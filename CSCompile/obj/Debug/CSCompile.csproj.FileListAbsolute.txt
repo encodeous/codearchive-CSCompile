@@ -1,0 +1,9 @@
+c:\users\asmcx15\documents\visual studio 2017\Projects\CSCompile\CSCompile\bin\Debug\CSCompile.exe
+c:\users\asmcx15\documents\visual studio 2017\Projects\CSCompile\CSCompile\bin\Debug\CSCompile.pdb
+c:\users\asmcx15\documents\visual studio 2017\Projects\CSCompile\CSCompile\obj\Debug\CSCompile.csprojResolveAssemblyReference.cache
+c:\users\asmcx15\documents\visual studio 2017\Projects\CSCompile\CSCompile\obj\Debug\CSCompile.Form1.resources
+c:\users\asmcx15\documents\visual studio 2017\Projects\CSCompile\CSCompile\obj\Debug\CSCompile.Properties.Resources.resources
+c:\users\asmcx15\documents\visual studio 2017\Projects\CSCompile\CSCompile\obj\Debug\CSCompile.csproj.GenerateResource.Cache
+c:\users\asmcx15\documents\visual studio 2017\Projects\CSCompile\CSCompile\obj\Debug\CSCompile.exe
+c:\users\asmcx15\documents\visual studio 2017\Projects\CSCompile\CSCompile\obj\Debug\CSCompile.pdb
+C:\Users\Asmcx15\Documents\Visual Studio 2017\Projects\CSCompile\CSCompile\obj\Debug\CSCompile.csproj.CoreCompileInputs.cache
