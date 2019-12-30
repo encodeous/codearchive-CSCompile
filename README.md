@@ -6,4 +6,4 @@ CSCompile was a simple program that used the built-in CSharp compiler built into
 **Here is a screenshot of the program**
 ![](https://i.imgur.com/U98ZD2o.png)
 
-Encodeous 2019, Code Archived from 2017
+Code Archived from 2017
